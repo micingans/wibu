@@ -1,4 +1,3 @@
-# wibu
 # Doujin Info
 
 git clone https://github.com/micingans/wibu <br>
