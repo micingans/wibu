@@ -24,9 +24,9 @@ $artis  = $crot['metadata']['artist']['name'];
 $tags   = $crot['metadata']['artist']['url'];
 
 echo "[+] Title  : ".$title."\n";
-echo "[+] Gambar : ".$cover."\n";
+echo "[+] Cover  : ".$cover."\n";
 echo "[+] Artis  : ".$artis."\n";
 echo "[+] Tag    : ".$tags."\n";
-echo "[+] Url    : https://nhentai/g/$code\n";
+echo "[+] Url    : https://nhentai.net/g/$code\n";
 
 ?>
